@@ -28,7 +28,7 @@ This corpus is a collection of Spanish Facebook posts from public pages of known
 
 ### Files in this data set:
 
-This respository has 3 files:
+The folder Corpus has two files:
 
 * **CorpusReaccion_10Empresas.xml** contains a XML tree with information of 13651 Spanish written posts from 10 brands:
   
@@ -58,8 +58,6 @@ This respository has 3 files:
   
   The values for each columns, except the post_id  is 1 or 0 to indicate a high or low impact, respectively.
 
-* README.md 
-
 #### Structure of the XML file:
 
 Tag _Paginas_ (pages in English) is the root in the XML file. This root contains a node called _URL_ for each public page in our corpus (i.e. one tag for each public page of brand listed above).
@@ -70,13 +68,13 @@ Each _Publicacion_ node has:
 
 * one node called *Fecha_Publicacion* (Publication date) with child nodes: _Hora_, _Dia_, _Mes_, _Anio_ (for Hour, Day, Month, and Year),
 
-* three _Texto_ (Text) nodes. The first _Texto_ node contains the text exactly as has retrieve from the Facebook page. The second _Texto_ node contains the same text as in previous node but without the html elements. Finally, the third _Texto_ node contains the preprocessed text [^1]. 
+* three _Texto_ (Text) nodes. The first _Texto_ node contains the text exactly as was retrieved from the Facebook public page. The second _Texto_ node contains the same text as in previous node but without the html elements. Finally, the third _Texto_ node contains the preprocessed text [^1]. 
   
   * For the preprocessed steps used in the third node we change mentions, hashtags and links for a particular word to represent each type of element.
 
 * one or more nodes _Links_.
 
-* one *Ejecucion_Programa* (programa_run) node that means to provide information for when the data was collected. Since this node contains one or more _Nodo_ (Node) tag. Each _Node_ has number of reactions, number of shares and numbers of comments on a post, and the exact date and time those numbers were collected.
+* one *Ejecucion_Programa* (programa_run) node that means to provide information for when the data was collected. Since this node contains one or more _Nodo_ (Node) tags. Each _Node_ has number of reactions, number of shares and numbers of comments on a post, and the exact date and time those numbers were collected.
 
 An example of a XML file is shown below:
 
@@ -126,4 +124,6 @@ An example of a XML file is shown below:
 
 This project was funded by CONACyT Thematic Networks program (RedTTL Language Technologies Network) with project numbers: 281795 and 295022. 
 
-[^1]: RosasQuezada: As we use it in **Predicting consumers engagement on Facebook based on what and how companies write**. Erika Sarai Rosas-Quezada, Gabriela Ramírez-De-La-Rosa and Esaú Villatoro-Tello. To be publish in Journal of Intelligent and Fuzzy Systems.
+[^1]: Note: As we use it in **Predicting consumers engagement on Facebook based on what and how companies write**. Erika Sarai Rosas-Quezada, Gabriela Ramírez-De-La-Rosa and Esaú Villatoro-Tello. To be publish in Journal of Intelligent and Fuzzy Systems.
+
+
