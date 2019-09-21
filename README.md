@@ -6,7 +6,7 @@ Erika Sarai Rosas-Quezada, Gabriela Ramírez-de-la-Rosa, Esaú Villatoro-Tello
 
 Research Group: Lenguaje y Razonamiento from Universidad Autónoma Metropolitana Unidad Cuajimalpa [lyr.cua.uam.mx](http://lyr.cua.uam.mx)
 
-Licence: **`CC-BY-SA-4.0`** 
+Licence: [**`CC-BY-SA-4.0`**](https://creativecommons.org/licenses/by-sa/4.0/) 
 
 ## Brief description
 
