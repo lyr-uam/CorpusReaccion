@@ -2,7 +2,7 @@
 
 ## Responsable team:
 
-Erika Sarai Rosas-Quezada, Gabriela Ramírez-de-la-Rosa, Esaú Villatoro-Tello
+Erika Sarai Rosas-Quezada, Gabriela Ramírez-de-la-Rosa, Esaú Villatoro-Tello.
 
 Research Group: Lenguaje y Razonamiento from Universidad Autónoma Metropolitana Unidad Cuajimalpa [lyr.cua.uam.mx](http://lyr.cua.uam.mx)
 
@@ -123,6 +123,8 @@ An example of a XML file is shown below:
 ## Acknowledgements
 
 This project was funded by CONACyT Thematic Networks program (RedTTL Language Technologies Network) with project numbers: 281795 and 295022. 
+
+The crawler used in this project was written by: Orlando Hernández-Hernández and Erika Sarai Rosas-Quezada.
 
 [^1]: Note: As we use it in **Predicting consumers engagement on Facebook based on what and how companies write**. Erika Sarai Rosas-Quezada, Gabriela Ramírez-De-La-Rosa and Esaú Villatoro-Tello. To be publish in Journal of Intelligent and Fuzzy Systems.
 
