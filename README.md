@@ -14,13 +14,13 @@ Licence: [**`CC-BY-SA-4.0`**](https://creativecommons.org/licenses/by-sa/4.0/)
 
 This corpus is a collection of Spanish Facebook posts from public pages of known companies. The gathering and sharing of this corpus follows Facebook Policy at the time of recollection. Below, we cited some of the policies taken into account:
 
-1. [Data Policy]([https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation)
+1. [Data Policy][https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation)
    
    Under: *How is this information shared?* and then *People and accounts you share and communicate with* that states (bolds are ours)
    
    > **[Public information](https://www.facebook.com/help/203805466323736?ref=dp)** can be seen by anyone, on or off our Products, including if they don't have an account. This includes your Instagram username; any information you share with a public audience; information in your [public profile on Facebook](https://www.facebook.com/help/203805466323736?ref=dp); and content you share on a Facebook Page, [public Instagram account](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F448523408565555%3Fref%3Ddp&h=AT3mch0p_K-9n-FqVgCT3-_IyVeeScZj2PcAgiTjWc9PyI69iS2qYWqDqhZnwfUhQFiSp5x9yqHY8MD4m7iLWFrezIj6Dt-CSyT3ugQXCoFzvBq61-n2IgH_5WLEeQ_U2d-6bZY31QkJ5lerHYNprbQX-ErTZQ) or any other public forum, such as [Facebook Marketplace](https://www.facebook.com/marketplace). You, other people using Facebook and Instagram, and we can provide access to or send public information to anyone on or off our Products, including in other Facebook Company Products, in search results, or through tools and APIs. **Public information can also be seen, accessed, reshared or downloaded through third-party services such as search engines, APIs**, and offline media such as TV, and by apps, websites and other services that integrate with our Products.
 
-2. [Pages, Groups and Events Policies]([[https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation)]
+2. [Pages, Groups and Events Policies](https://www.facebook.com/privacy/explanation)
    
    Under policy number 5: *Pages-Specific Policies* in *Content Visibility* that states 
    
@@ -40,9 +40,9 @@ The folder Corpus has two files:
   
   * Fisher-Price: [https://www.facebook.com/FisherPriceLatAm/](https://www.facebook.com/FisherPriceLatAm/)
   
-  * Muy Interesante México: https://[www.facebook.com/MuyInteresanteMexico/
+  * Muy Interesante México: [https://www.facebook.com/MuyInteresanteMexico/](https://www.facebook.com/MuyInteresanteMexico/)
   
-  * Discovery Channel España: https://[www.facebook.com/discoverychannelespana/
+  * Discovery Channel España: [https://www.facebook.com/discoverychannelespana/](https://www.facebook.com/discoverychannelespana/)
   
   * Xbox México: [https://www.facebook.com/xboxmexico/](https://www.facebook.com/xboxmexico/)
   
@@ -124,7 +124,7 @@ An example of a XML file is shown below:
 
 This project was funded by CONACyT Thematic Networks program (RedTTL Language Technologies Network) with project numbers: 281795 and 295022. 
 
-The crawler used in this project was written by: Orlando Hernández-Hernández and Erika Sarai Rosas-Quezada.
+The crawler used in this project was written by: [Orlando Hernández-Hernández](https://mx.linkedin.com/in/orlando-hern%C3%A1ndez-865247161) and Erika Sarai Rosas-Quezada.
 
 [^1]: Note: As we use it in **Predicting consumers engagement on Facebook based on what and how companies write**. Erika Sarai Rosas-Quezada, Gabriela Ramírez-De-La-Rosa and Esaú Villatoro-Tello. To be publish in Journal of Intelligent and Fuzzy Systems.
 
